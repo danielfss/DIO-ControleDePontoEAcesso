@@ -1,6 +1,6 @@
 # DIO-ControleDePontoEAcesso
 
-## Projeto - DIO Construindo um sistema de controle de ponto e acesso com Spring Boot.
+## Projeto - Construindo um sistema de controle de ponto e acesso com Spring Boot.
 
 ### Tecnologias utilizadas: 
 - Java;
